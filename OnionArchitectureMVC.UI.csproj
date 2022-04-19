@@ -191,14 +191,6 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="OnionArchitectureMVC.Data\OnionArchitectureMVC.Data.csproj">
-      <Project>{33854b61-14c6-4a0c-8ecd-5586850f493b}</Project>
-      <Name>OnionArchitectureMVC.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="OnionArchitectureMVC.Repo\OnionArchitectureMVC.Repo.csproj">
-      <Project>{08d79624-684e-4167-a4c3-d518fc79e527}</Project>
-      <Name>OnionArchitectureMVC.Repo</Name>
-    </ProjectReference>
     <ProjectReference Include="OnionArchitectureMVC.Service\OnionArchitectureMVC.Service.csproj">
       <Project>{39683A13-58AD-434B-BCCD-74A88DD408B7}</Project>
       <Name>OnionArchitectureMVC.Service</Name>

@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
-using OnionArchitectureMVC.Data.Data;
+
 using OnionArchitectureMVC.Models;
-using OnionArchitectureMVC.Repo;
+
 using OnionArchitectureMVC.Service;
 using OnionArchitectureMVC.Service.Models;
 using System;
