@@ -18,7 +18,7 @@ namespace OnionArchitectureMVC.Repo.Repositories
         public void Add(TEntity entity)
         {
             Context.Set<TEntity>().Add(entity);
-
+            
         }
 
         public void AddRange(IEnumerable<TEntity> entities)
