@@ -11,7 +11,7 @@ namespace OnionArchitectureMVC.Repo
     {
         IRegistrationsRepository Registrations { get; }
         IStudentsRepository Students{ get; }
-        ICoursesRepository Courses { get; }
+        CoursesRepository Courses { get; }
         IDepartmentsRepository Departments { get; }
         int Complete();
         
